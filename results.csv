@@ -1,0 +1,13 @@
+dataset,courses,mode,runtime,nodes_visited,backtracks,solution_found
+small,6,basic,1.6927719116210938e-05,7,1,True
+small,6,mrv_degree,7.200241088867188e-05,6,0,True
+small,6,mrv_degree_mac,0.00015592575073242188,6,0,True
+medium,15,basic,6.723403930664062e-05,27,12,True
+medium,15,mrv_degree,0.0006499290466308594,15,0,True
+medium,15,mrv_degree_mac,0.001722097396850586,15,0,True
+large,20,basic,0.0014431476593017578,429,409,True
+large,20,mrv_degree,0.0011882781982421875,20,0,True
+large,20,mrv_degree_mac,0.004845619201660156,20,0,True
+unsolvable,13,basic,0.0016369819641113281,316,316,False
+unsolvable,13,mrv_degree,0.00018405914306640625,5,5,False
+unsolvable,13,mrv_degree_mac,0.00014400482177734375,1,1,False
